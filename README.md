@@ -1,4 +1,4 @@
-# 2023_2_opensw_201812419_HW1
+# 2023_2_opensw_201812419_HW2
 
 본 프로젝트는 경기대학교 오픈소스SW 강의의 HW2로 telegram과 Scheduler를 활용하여 telegram bot을 구현합니다. 
 

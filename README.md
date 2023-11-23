@@ -33,5 +33,5 @@
 
 
 ## 텔레그램 봇  실행 결과
-   ![Result of Telegram Bot](result.png)
+   ![Result of Telegram Bot](result.jpg)
    
